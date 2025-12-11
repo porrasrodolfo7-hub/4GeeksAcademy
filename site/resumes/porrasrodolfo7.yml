@@ -31,8 +31,8 @@ basic_info:
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: porrasrodolfo7@gmail.com 
-    phone: +58 4141879497 
+    email: porrasrodolfo7@gmail.com #optional
+    phone: +58 4141879497git  #optional
     website: asd.com #optional
     linkedin: https://www.linkedin.com/in/rodolfo-porras-avila-a75392b8/
     
@@ -41,18 +41,19 @@ basic_info:
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: porrasrodolfo7
     
-    twitter: 'RodolfoPorras' #optional
-    stack-overflow: Rodolfo Porras
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # Languages you speak, levels include: Native, Professional
     languages:
-      - idiom: Spanish
+      - idiom: English
         level: Native
 
-      - idiom: English
-        level: Conversational
+      - idiom: French
+        level: Professional
 
-    
+      - idiom: Spanish
+        level: Professional
 
     # Interests or hobbies
     interests:
@@ -60,14 +61,15 @@ basic_info:
 
       - item: Anime
 
-      - item: Mùsica
+      - item: Music
+
 # Your previous education
 education:
     - degree: MSc in Computer Science
       university: University of London
       # optional
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2012
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
